@@ -1,4 +1,4 @@
-$location = "centralus"
+$location = "uksouth"
 $resourceGroupName = "mate-azure-task-11"
 $networkSecurityGroupName = "defaultnsg"
 $virtualNetworkName = "vnet"
